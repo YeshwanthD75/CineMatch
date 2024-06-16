@@ -1,18 +1,18 @@
 # CineMatch
 Movie Recommendation System
 
-CineMatch
+
 CineMatch is a simple in-memory movie recommendation system that allows users to add, search, recommend, and delete movies. This application is built using Python with a Tkinter graphical user interface.
 
 Features
-Add Movie: Users can add movies with details such as title, genre, rating, actors, year, industry, and OTT platform.
-Search Movie: Users can search for movies by title, genre, actor, or industry.
-Recommend Movies: Users can get top N movie recommendations based on rating or industry.
-Delete Movie: Users can delete movies from the list by title.
+1. Add Movie: Users can add movies with details such as title, genre, rating, actors, year, industry, and OTT platform.
+2. Search Movie: Users can search for movies by title, genre, actor, or industry.
+3. Recommend Movies: Users can get top N movie recommendations based on rating or industry.
+4. Delete Movie: Users can delete movies from the list by title.
 
 Usage
-Adding a Movie:
 
+Adding a Movie:
 Navigate to the "Add Movie" tab.
 Fill in the movie details: title, genre, rating, actors (comma-separated), year, industry, and OTT platform.
 Click "Add Movie" to add the movie to the list.
