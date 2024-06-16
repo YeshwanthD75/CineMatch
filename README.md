@@ -13,27 +13,27 @@ CineMatch is a simple in-memory movie recommendation system that allows users to
 <h3>Usage</h3>
 
 <h4>Adding a Movie:</h4>
-1. Navigate to the "Add Movie" tab.
-2. Fill in the movie details: title, genre, rating, actors (comma-separated), year, industry, and OTT platform.
-3. Click "Add Movie" to add the movie to the list.
+1. Navigate to the "Add Movie" tab.<br>
+2. Fill in the movie details: title, genre, rating, actors (comma-separated), year, industry, and OTT platform.<br>
+3. Click "Add Movie" to add the movie to the list.<br>
 4. The list of movies added will be displayed at the bottom of the tab.
 
 <h4>Searching for a Movie:</h4>
-1. Navigate to the "Search Movie" tab.
-2. Enter a search term and select a search criteria (title, genre, actor, or industry).
-3. Click "Search" to find matching movies.
+1. Navigate to the "Search Movie" tab.<br>
+2. Enter a search term and select a search criteria (title, genre, actor, or industry).<br>
+3. Click "Search" to find matching movies.<br>
 4. The search results will be displayed below.
 
 <h4>Recommending Movies:</h4>
-1. Navigate to the "Recommend Movies" tab.
-2. Enter the number of movies you want to be recommended.
-3. Select a recommendation criteria (rating or industry).
-4. Click "Recommend" to get the top N movie recommendations.
+1. Navigate to the "Recommend Movies" tab.<br>
+2. Enter the number of movies you want to be recommended.<br>
+3. Select a recommendation criteria (rating or industry).<br>
+4. Click "Recommend" to get the top N movie recommendations.<br>
 5. The recommendations will be displayed below.
 
 <h4>Deleting a Movie:</h4>
-1. Navigate to the "Delete Movie" tab.
-2. Enter the title of the movie you want to delete.
+1. Navigate to the "Delete Movie" tab.<br>
+2. Enter the title of the movie you want to delete.<br>
 3. Click "Delete Movie" to remove the movie from the list.
 
 <h3>Sorting Algorithm</h3>
