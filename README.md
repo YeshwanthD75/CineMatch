@@ -13,27 +13,29 @@ Features
 Usage
 
 Adding a Movie:
-Navigate to the "Add Movie" tab.
-Fill in the movie details: title, genre, rating, actors (comma-separated), year, industry, and OTT platform.
-Click "Add Movie" to add the movie to the list.
-The list of movies added will be displayed at the bottom of the tab.
+1. Navigate to the "Add Movie" tab.
+2. Fill in the movie details: title, genre, rating, actors (comma-separated), year, industry, and OTT platform.
+3. Click "Add Movie" to add the movie to the list.
+4. The list of movies added will be displayed at the bottom of the tab.
+
 Searching for a Movie:
+1. Navigate to the "Search Movie" tab.
+2. Enter a search term and select a search criteria (title, genre, actor, or industry).
+3. Click "Search" to find matching movies.
+4. The search results will be displayed below.
 
-Navigate to the "Search Movie" tab.
-Enter a search term and select a search criteria (title, genre, actor, or industry).
-Click "Search" to find matching movies.
-The search results will be displayed below.
 Recommending Movies:
+1. Navigate to the "Recommend Movies" tab.
+2. Enter the number of movies you want to be recommended.
+3. Select a recommendation criteria (rating or industry).
+4. Click "Recommend" to get the top N movie recommendations.
+5. The recommendations will be displayed below.
 
-Navigate to the "Recommend Movies" tab.
-Enter the number of movies you want to be recommended.
-Select a recommendation criteria (rating or industry).
-Click "Recommend" to get the top N movie recommendations.
-The recommendations will be displayed below.
 Deleting a Movie:
+1. Navigate to the "Delete Movie" tab.
+2. Enter the title of the movie you want to delete.
+3. Click "Delete Movie" to remove the movie from the list.
 
-Navigate to the "Delete Movie" tab.
-Enter the title of the movie you want to delete.
-Click "Delete Movie" to remove the movie from the list.
 Sorting Algorithm
+
 CineMatch uses the Merge Sort algorithm to sort movies by rating for the recommendation feature. Merge Sort is a comparison-based sorting algorithm with an average and worst-case time complexity of O(n log n).
